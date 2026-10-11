@@ -5,7 +5,11 @@ This project generates a 7-day South Indian meal plan for weight loss, tailored 
 ## Screenshots
 
 ### Meal Plan Generator UI
+### Vegetarian
 ![Meal Plan Generator UI](./Screenshot.png)
+
+### Non-Vegeterian
+![Meal Plan Generator UI](./Screenshot_2.png)
 
 ## Features
 
